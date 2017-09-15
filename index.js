@@ -25,7 +25,7 @@ app.get('/', (request, response) => {
        data: {
          "firstname":"François",
          "lastname":"Robert",
-         "email":"hsolo@disney.com",
+         "email":"github@shipstone.org",
          "id":appID
        },
        headers: { "Content-Type": "application/json" }
